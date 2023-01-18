@@ -1,0 +1,1 @@
+/sites/<site collection title>/<file path>
